@@ -15,6 +15,10 @@ JATE is a Progressive Web Application Text Editor that is JavaScript aware. It l
 
 - **installable:** Can be installed as a Progressive Web App
 
+## Screenshot
+
+![alt text](screenshot.png "Screenshot")
+
 ## Getting Started
 
 JATE is an online application and can be accessed at: https://jate-server.onrender.com/
