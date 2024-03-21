@@ -1,6 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Just Another Text Editor (J.A.T.E)
 
+
 JATE is a Progressive Web Application Text Editor that is JavaScript aware. It leverages modern web application technology to provide a robust and responsive application that is fully functional even when there is no connection to the Internet.Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
 
 ## Features
