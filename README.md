@@ -17,7 +17,7 @@ JATE is a Progressive Web Application Text Editor that is JavaScript aware. It l
 
 ## Screenshot
 
-![alt text](screenshot.png "Screenshot")
+![alt text](./screenshot.png "Screenshot")
 
 ## Getting Started
 
